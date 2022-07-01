@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/wp-thirtytwo"]
+	path = wp-content/themes/wp-thirtytwo
+	url = https://github.com/knopsi/wp-thirtytwo.git
